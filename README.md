@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 README.md
 loose leaf⚪
 Indonesia🇮🇩
-
+I want to know what distribution I can give from my own word from my book
